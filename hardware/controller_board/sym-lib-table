@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name local)(type Legacy)(uri C:/Users/gaffo/ws-ardu-galvo/hardware/local.lib)(options "")(descr ""))
+)
